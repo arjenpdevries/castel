@@ -12,6 +12,8 @@ including but not limited to:
 * Electronic Laboratory Notebooks (ELNs);
 * Computational Notebooks in (Data) Science;
 * Management of Big Science Data;
+* Laboratory Automation;
+* Metadata and interoperability, to facilitate comparison and reuse of data originating in different studies;
 * Cutting-edge tools for collecting, storing, and presenting scientific data.
 
 ## Contact
