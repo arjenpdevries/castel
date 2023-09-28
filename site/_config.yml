@@ -4,7 +4,7 @@ logo: /assets/img/FAIR-DI_square_web.png
 plugins:
   - jekyll-remote-theme
 color-scheme: auto
-title: CASTEL 2023
+title: CASTEL'23
 description: First international and inter-disciplinary workshop on Capturing and Automating Science and Technology Experiments in the Laboratory
 show_downloads: false
 
