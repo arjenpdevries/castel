@@ -7,9 +7,12 @@ The first workshop on Capturing and Automating Science and Technology Experiment
 We welcome contributions on the following topics,
 including but not limited to:
 
-* AI4Science in the Laboratory;
+* AI4Science: how to integrate AI in the Laboratory Experiment;
+* LLMs and Foundation Models in (empirical) natural science;
 * Electronic Laboratory Notebooks (ELNs);
-* ....
+* Computational Notebooks in (Data) Science;
+* Management of Big Science Data;
+* Cutting-edge tools for collecting, storing, and presenting scientific data.
 
 ## Contact
 
