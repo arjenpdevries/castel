@@ -1,4 +1,4 @@
-# CASTEL 2023
+# CASTEL'23
 
 First international and interdisciplinary workshop on
 Capturing and Automating Science and Technology Experiments in the Laboratory.
