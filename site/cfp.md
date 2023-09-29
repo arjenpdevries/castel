@@ -13,6 +13,7 @@ including but not limited to:
 * Computational Notebooks in (Data) Science;
 * Management of Big Science Data;
 * Laboratory Automation;
+* Scientific Data Stewardship;
 * Metadata and interoperability, to facilitate comparison and reuse of data originating in different studies;
 * Cutting-edge tools for collecting, storing, and presenting scientific data.
 
